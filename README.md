@@ -10,7 +10,7 @@
 
 email: [stefanovich.anastasiya@yandex.ru](mailto:stefanovich.anastasiya@yandex.ru)
 
-![photo](img/photo.jpg)
+![photo](img/photo1.jpg)
 
 ## Опыт работы
       
